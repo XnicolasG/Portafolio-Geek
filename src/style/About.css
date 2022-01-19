@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@1,600&family=Inter:wght@300&family=Luxurious+Script&family=M+PLUS+Code+Latin&family=Merriweather&family=Mohave:wght@600&family=Montagu+Slab&family=Nunito:ital@1&family=Open+Sans:wght@300&family=Poppins:ital,wght@0,300;1,300&family=Roboto:ital,wght@0,300;0,400;1,100;1,400&display=swap');
+h2{
+    font-size: 60px;
+    color: palevioletred;
+}
+h2:hover{
+    color: yellow;
+}

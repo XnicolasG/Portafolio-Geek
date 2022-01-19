@@ -71,10 +71,10 @@ module.exports = {
     }),
   ],
   devServer: {
-    static: path.join(__dirname, 'build'),
+    static: path.join(__dirname, 'build' ),
     compress: true,
     //Habilitar para poder acceder a la información y mostrar cada una de las rutas
     historyApiFallback: true,
-    port: 3005,
+    port: 4005,
   },
 };
